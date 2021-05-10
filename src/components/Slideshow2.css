@@ -1,0 +1,13 @@
+/* Container holding the image and the text */
+.indicator {
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    border: 1px #666 solid
+  }
+  
+  .indicator.active {
+    color: #fff;
+    background: #666;
+  }
+  
